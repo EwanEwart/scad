@@ -1,2 +1,1 @@
-# scad
 tutorial scad
